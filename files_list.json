@@ -19,8 +19,20 @@
     },
     {
         "coordinates": [
-            206, 46, 63, 22
+            206,
+            46,
+            63,
+            22
         ],
         "cached_dir": "/workspace/cached/man_city_tot/"
+    },
+    {
+        "coordinates": [
+            95,
+            658,
+            75,
+            27
+        ],
+        "cached_dir": "/workspace/cached/liv_man_city/"
     }
 ]
