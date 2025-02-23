@@ -1,10 +1,26 @@
 [
-{
-    "coordinates": [200, 70, 50, 20],
-    "cached_dir": "/workspace/cached/chelsea_brom/"
-},
-{
-    "coordinates": [220, 46, 60, 22],
-    "cached_dir": "/workspace/cached/chelsea_manu/"
-}
+    {
+        "coordinates": [
+            200,
+            70,
+            50,
+            20
+        ],
+        "cached_dir": "/workspace/cached/chelsea_brom/"
+    },
+    {
+        "coordinates": [
+            220,
+            46,
+            60,
+            22
+        ],
+        "cached_dir": "/workspace/cached/chelsea_manu/"
+    },
+    {
+        "coordinates": [
+            206, 46, 63, 22
+        ],
+        "cached_dir": "/workspace/cached/man_city_tot/"
+    }
 ]
