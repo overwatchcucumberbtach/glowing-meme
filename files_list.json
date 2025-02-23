@@ -34,5 +34,14 @@
             27
         ],
         "cached_dir": "/workspace/cached/liv_man_city/"
+    },
+    {
+        "coordinates": [
+            200,
+            70,
+            50,
+            20
+        ],
+        "cached_dir": "/workspace/cached/chelsea_stoke/"
     }
 ]
