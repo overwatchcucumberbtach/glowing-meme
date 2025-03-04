@@ -34,5 +34,14 @@
             20
         ],
         "cached_dir": "/workspace/cached/swan_chelsea/"
+    },
+    {
+        "coordinates": [
+            200,
+            70,
+            50,
+            20
+        ],
+        "cached_dir": "/workspace/cached/man_city_brom/"
     }
 ]
